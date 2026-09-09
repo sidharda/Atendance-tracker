@@ -1,0 +1,6 @@
+{
+  "name": "Daily Attendance Tracker",
+  "description": "Interactive daily employee attendance tracker with real-time analytics dashboard, bulk status marking, employee directory management, and CSV report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
